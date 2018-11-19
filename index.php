@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World Again And Again!";
+echo "Hello World Again And Again! But does it work automatically and how quickly?";
